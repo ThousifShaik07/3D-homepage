@@ -38,7 +38,8 @@ TCODE is a sleek, animated, and responsive landing page designed for a fictional
 
 🖼️ Screenshots
 
-![Screenshot 2025-05-19 170012](https://github.com/user-attachments/assets/713d4754-56e4-4c26-ab3f-a7a95ece9a51)
+![image](https://github.com/user-attachments/assets/d09f9e7a-3e62-4726-a793-5971e043c4ad)
+
 
 📌 Notes
 Ensure your img/ folder includes TCODE.png and gradient.png for proper visuals.
